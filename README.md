@@ -1,5 +1,7 @@
 # Vehicle Detection and Tracking with Heatmap Overlay
 
+![Alt Text](heatmap.gif)
+
 This Python script detects vehicles in a video stream, tracks their movement, and overlays a heatmap to visualize their presence over time. It utilizes a pre-trained YOLO (You Only Look Once) model for object detection and the SORT (Simple Online and Realtime Tracking) algorithm for object tracking.
 
 ## Requirements
